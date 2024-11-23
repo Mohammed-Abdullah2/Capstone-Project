@@ -1,0 +1,11 @@
+Date,Sales,Category,Region,Profit
+2023-01-01,500,Electronics,North,150
+2023-01-02,600,Clothing,South,180
+2023-01-03,700,Home Appliances,East,200
+2023-01-04,800,Electronics,West,250
+2023-01-05,400,Clothing,North,120
+2023-01-06,300,Home Appliances,South,90
+2023-01-07,450,Electronics,East,140
+2023-01-08,650,Clothing,West,190
+2023-01-09,850,Home Appliances,North,230
+2023-01-10,700,Electronics,South,220
